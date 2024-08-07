@@ -1,4 +1,4 @@
-nom_utilisateur,type_contrat,date_creation,date_modification,date_fin
+nom_client,type_contrat,date_creation,date_modification,date_fin
 Alice Martin,Assurance,2024-01-10,2024-01-20,2024-06-30
 Claire Lefevre,Santé,2024-02-20,2024-03-05,2025-01-01
 David Bernard,Emprunt,2024-01-25,2024-02-10,2024-02-01
